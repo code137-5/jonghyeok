@@ -1,3 +1,3 @@
-import { Circle } from './natureofcode1.js';
+import { Circle } from './natureofcode2.js';
 
 const circle = new Circle();
